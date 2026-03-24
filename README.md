@@ -133,6 +133,6 @@ para oportunidades de prácticas preprofesionales y posiciones junior.
 
 <p>
 📍 Chiclayo, Perú<br>
-📧 AQUI_TU_CORREO<br>
+📧 vasquezelverth@gmail.com<br>
 💼 <a href="https://www.linkedin.com/in/elverth-vasquez-villalobos-405b9a3b1/">LinkedIn</a><br>
 </p>
